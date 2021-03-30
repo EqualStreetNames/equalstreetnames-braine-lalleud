@@ -1,0 +1,567 @@
+name,gender,wikidata,type
+"Avenue Déesse Pomone",,Q171239,way
+"Avenue Geneviève de Brabant",,Q269052,way
+"Ancienne ligne 115",,,way
+"Av'nuwe du Pont des Diâp",,,way
+"Avenue Bel Air",,,way
+"Avenue Britannique",,,way
+"Avenue Chantecler",,,way
+"Avenue Coquette",,,way
+"Avenue Germinal",,,way
+"Avenue Grand Peine",,,way
+"Avenue d'Arromanches",,,way
+"Avenue d'Epinoy",,,way
+"Avenue de Basingstoke",,,way
+"Avenue de Cantecroy",,,way
+"Avenue de Drummondville",,,way
+"Avenue de Fief",,,way
+"Avenue de Finlande",,,way
+"Avenue de Guéménée",,,way
+"Avenue de Jéricho",,,way
+"Avenue de Marsan",,,way
+"Avenue de Menden",,,way
+"Avenue de Norvège",,,way
+"Avenue de Rohan",,,way
+"Avenue de Soubise",,,way
+"Avenue de Suède",,,way
+"Avenue de Tchéquie",,,way
+"Avenue de Tenbroeck",,,way
+"Avenue de Vaudemont",,,relation
+"Avenue de l'Aiglon",,,way
+"Avenue de l'Alleu",,,way
+"Avenue de l'Ancienne Barrière",,,way
+"Avenue de l'Armistice",,,way
+"Avenue de l'Artisanat",,,way
+"Avenue de l'Egalité",,,way
+"Avenue de l'Empereur",,,way
+"Avenue de l'Ermitage",,,way
+"Avenue de l'Estree",,,way
+"Avenue de l'Industrie",,,way
+"Avenue de l'Orée",,,way
+"Avenue de la 112ème",,,way
+"Avenue de la Belle Province",,,way
+"Avenue de la Bonne Fosse",,,way
+"Avenue de la Brise",,,way
+"Avenue de la Chevauchée",,,way
+"Avenue de la Corniche",,,way
+"Avenue de la Criniere",,,way
+"Avenue de la Croix Poncin",,,way
+"Avenue de la Croix Rouge",,,way
+"Avenue de la Douce Colline",,,way
+"Avenue de la Ferme",,,way
+"Avenue de la Fidélité",,,way
+"Avenue de la Flohaye",,,way
+"Avenue de la Garde Impériale",,,way
+"Avenue de la Grande Armée",,,way
+"Avenue de la Grande Boucle",,,way
+"Avenue de la Grande Closière",,,way
+"Avenue de la Grande Jonction",,,way
+"Avenue de la Liberté",,,way
+"Avenue de la Manette",,,way
+"Avenue de la Métairie",,,way
+"Avenue de la Paix",,,way
+"Avenue de la Tendraie",,,way
+"Avenue des 4 Bonniers",,,way
+"Avenue des Alouettes",,,way
+"Avenue des Aunelles",,,way
+"Avenue des Avocettes",,,way
+"Avenue des Bergeronnettes",,,way
+"Avenue des Bouleaux",,,way
+"Avenue des Cerisiers",,,way
+"Avenue des Champs",,,way
+"Avenue des Champs Clairs",,,way
+"Avenue des Coquelicots",,,way
+"Avenue des Cyclamens",,,way
+"Avenue des Deux Sapins",,,way
+"Avenue des Érables",,,way
+"Avenue des Etangs",,,way
+"Avenue des Géraniums",,,way
+"Avenue des Grives",,,way
+"Avenue des Hêtres",,,way
+"Avenue des Mésanges",,,way
+"Avenue des Moines",,,way
+"Avenue des Muguets",,,way
+"Avenue des Octrois",,,way
+"Avenue des Pétunias",,,way
+"Avenue des Pinsons",,,way
+"Avenue des Quatre Saisons",,,way
+"Avenue des Ramiers",,,way
+"Avenue des Roses",,,way
+"Avenue des Rouges-Gorges",,,way
+"Avenue des Sorbiers",,,way
+"Avenue des Sources",,,way
+"Avenue des Tarins",,,way
+"Avenue des Tourterelles",,,way
+"Avenue des Trois Battues",,,way
+"Avenue des Vanneaux",,,way
+"Avenue des Verts Pâturages",,,way
+"Avenue des Vieux Belges",,,way
+"Avenue des Vingt Bonniers",,,way
+"Avenue des Warrois",,,way
+"Avenue du 21 Juillet",,,way
+"Avenue du Beau Site",,,way
+"Avenue du Bois Amory",,,way
+"Avenue du Bois des Collines",,,way
+"Avenue du Bouvreuil",,,way
+"Avenue du Cadre Noir",,,way
+"Avenue du Callois",,,way
+"Avenue du Castel",,,way
+"Avenue du Champ de la Bloquerie",,,way
+"Avenue du Chemin Creux",,,way
+"Avenue du Clair Soleil",,,way
+"Avenue du Commerce",,,way
+"Avenue du Dernier Carré",,,way
+"Avenue du Feuillage",,,way
+"Avenue du Forgeron",,,way
+"Avenue du Japon",,,way
+"Avenue du Mont Marcure",,,way
+"Avenue du Portugal",,,way
+"Avenue du Pré Hérault",,,way
+"Avenue du Sabotier",,,way
+"Avenue du Saphir",,,way
+"Avenue du Tonnelier",,,way
+"Avenue du Triangle",,,way
+"Avenue du Verger",,,way
+"Avenue du clos du Sadin",,,way
+"Bois du Village",,,way
+"Boulevard d'Angleterre",,,way
+"Boulevard de France",,,way
+"Boulevard de l'Alliance",,,way
+"Boulevard de l'Europe",,,way
+"Campagne des Rites",,,way
+"Chaussée Bara",,,way
+"Chaussée d'Alsemberg",,,way
+"Chaussée d'Alsemberg - Eigenbrakelse Steenweg",,,way
+"Chaussée d'Ophain",,,way
+"Chaussée de Charleroi",,,way
+"Chaussée de Mont-Saint-Jean",,,way
+"Chaussée de Nivelles",,,way
+"Chaussée de Tubize",,,way
+"Chemin 04",,,way
+"Chemin 103",,,way
+"Chemin 17",,,way
+"Chemin 18",,,way
+"Chemin 23",,,way
+"Chemin 31",,,way
+"Chemin Baty d'Hulencourt",,,way
+"Chemin Baty de la Croix Charles Boucher",,,way
+"Chemin Baty de la Justice",,,way
+"Chemin Bertinchamps",,,way
+"Chemin Bois du Vicaire",,,way
+"Chemin Broctiaux",,,way
+"Chemin Chesseroux",,,way
+"Chemin Lazard",,,way
+"Chemin Mamour",,,way
+"Chemin Palle",,,way
+"Chemin Robin",,,way
+"Chemin Tisvenhoort",,,way
+"Chemin à tout vent",,,way
+"Chemin d'Ophain",,,way
+"Chemin de Baulers",,,way
+"Chemin de Bois le Duc",,,way
+"Chemin de Haut-Ittre",,,way
+"Chemin de Nivelles",,,way
+"Chemin de Nizelles",,,way
+"Chemin de Noucelles",,,way
+"Chemin de Remyval",,,way
+"Chemin de Saint-Germain",,,way
+"Chemin de Tourneppe",,,way
+"Chemin de Vieux-Genappe",,,way
+"Chemin de Witterzee",,,way
+"Chemin de l'Ange Gardien",,,way
+"Chemin de l'Ermite",,,way
+"Chemin de l'Infante",,,way
+"Chemin de la Bruyere d'Arconval",,,way
+"Chemin de la Carrière",,,way
+"Chemin de la Cense",,,way
+"Chemin de la Maison du Roi",,,way
+"Chemin de la Maloue",,,way
+"Chemin de la Praye",,,way
+"Chemin de la chapelle",,,way
+"Chemin des 7 Fontaines",,,way
+"Chemin des Brûlés",,,way
+"Chemin des Eglantiers",,,way
+"Chemin des Oisillons",,,way
+"Chemin des Pères",,,way
+"Chemin des Piécettes",,,way
+"Chemin des Roussettes",,,way
+"Chemin des Sept Fontaines - Zevenbronnenweg",,,way
+"Chemin des Vertes Bornes",,,way
+"Chemin des Voiturons",,,way
+"Chemin dit le Bois",,,way
+"Chemin du Blanc Caillou",,,way
+"Chemin du Bois Moulin",,,way
+"Chemin du Bois d'Ophain",,,way
+"Chemin du Bois de Hal",,,way
+"Chemin du Bosquet Del Vau",,,way
+"Chemin du Champ",,,way
+"Chemin du Champ de l'Épine",,,way
+"Chemin du Champ de la Clôture",,,way
+"Chemin du Champ des Hayettes",,,way
+"Chemin du Fond Saint-Georges",,,way
+"Chemin du Foriest",,,way
+"Chemin du Fourçon",,,way
+"Chemin du Goumont",,,way
+"Chemin du Hulencourt",,,way
+"Chemin du Long Cheneau",,,way
+"Chemin du Long Tour",,,way
+"Chemin du P'tit Coriat",,,way
+"Chemin du Parc",,,way
+"Chemin du Pendu",,,way
+"Chemin du Pont Haye",,,way
+"Chemin du Pré de la Perche",,,way
+"Chemin du Rossignol",,,way
+"Chemin du Roton",,,way
+"Chemin du Roussart",,,way
+"Chemin du Steck",,,way
+"Chemin du Valcq",,,way
+"Chemin le Baty Scolasse",,,way
+"Chemin n° 8 Piedsente de Braine l'Alleud",,,way
+"Chemin n°22",,,way
+"Chemin n°26",,,way
+"Clos Béliau",,,way
+"Clos Bourdon",,,way
+"Clos de Belvoir",,,way
+"Clos de L'aurore",,,way
+"Clos de l'Araucaria",,,way
+"Clos de l'Epicéa",,,way
+"Clos de l'Ermite",,,way
+"Clos de l'Horizon",,,way
+"Clos de l'If",,,way
+"Clos de la Ferme Demarbaix",,,way
+"Clos de la Ferme de l'Agent",,,way
+"Clos de la Houblonnière",,,way
+"Clos de la Masserée",,,way
+"Clos de la Pépinière",,,way
+"Clos de la Rose",,,way
+"Clos de la Sapinière",,,way
+"Clos des Brûlots",,,way
+"Clos des Centenaires",,,way
+"Clos des Pommiers",,,way
+"Clos des Tilleuls",,,way
+"Clos des Verdiers",,,way
+"Clos des épinoches",,,way
+"Clos du Cèdres",,,way
+"Clos du Champ d'Abeiche",,,way
+"Clos du Colbie",,,way
+"Clos du Conifère",,,way
+"Clos du Cypres",,,way
+"Clos du Genévrier",,,way
+"Clos du Mélèze",,,way
+"Clos du Paddock",,,way
+"Clos du Parc",,,way
+"Clos du Poney",,,way
+"Clos du Sadin",,,way
+"Clos du Sarty",,,way
+"Clos du Séquoias",,,way
+"Clos du Taillevent",,,way
+"Clos du Thuyas",,,way
+"Clos du Val de l'écossais",,,way
+"Clos du Vitrier",,,way
+Diepestraat,,,way
+"Drève de Colipain",,,way
+"Drève des Pins",,,way
+"Drève du Bois de Mai",,,way
+"Drève du Triage de la Bruyère",,,way
+"Drève du Triage de la Bruyère - Heidelaan",,,way
+"Ferme du Brou",,,way
+"Ferme du Mont",,,way
+"Galerie du Môle",,,way
+Grand'Route,,,way
+"Heidelaan - Avenue de la Bruyère",,,way
+"Kleine Verbindingslaan - Avenue de la Petite Jonction",,,way
+"Le Mail",,,way
+"Parvis de l'église",,,way
+Passerelle,,,way
+"Petite Rue de la Gare",,,way
+"Petite Rue du Château d'Eau",,,way
+"Petite rue à l'art",,,way
+"Place Colo-Hugues",,,way
+"Place Sainte-Anne",,,way
+"Place d'Italie",,,way
+"Place de la Gare",,,way
+"Place de la Presse Belge",,,way
+"Place du Luxembourg",,,way
+"Place du Môle",,,way
+"Place du Quartier Saint-Jacques (Ouest) - Chaussée d'Ophain (Est)",,,way
+"Place du Saint Zèle",,,way
+"Pont Courbe",,,way
+"Pré du Chapitre",,,way
+"Pré-RAVeL de Noucelles",,,way
+"Rond-Point de la Souveraine",,,way
+"Rond-Point du Château Cheval",,,way
+"Rond-Point du Scoutisme",,,way
+"Route de Lillois",,,way
+"Route de Piraumont",,,way
+"Route du Lion",,,way
+"Route du Piraumont",,,way
+"Rue Baty Gigot",,,way
+"Rue Baty du Cerisier",,,way
+"Rue Bayard",,,way
+"Rue Bertinchamps",,,way
+"Rue Bruyère des Badauds",,,way
+"Rue Castor",,,way
+"Rue César Franck",,,way
+"Rue Chavée",,,way
+"Rue Cloquet",,,way
+"Rue Coleau",,,way
+"Rue Colo-Hugues",,,way
+"Rue Comte Jacques de Meeus",,,way
+"Rue Coniche",,,way
+"Rue Culée",,,way
+"Rue Delaleau",,,way
+"Rue Ferme Smette",,,way
+"Rue Fonds Gouvart",,,way
+"Rue Fontaine Saint-Martin",,,way
+"Rue Fortemps",,,way
+"Rue Giroune",,,way
+"Rue Grand-Mère",,,way
+"Rue Grange des Champs",,,way
+"Rue Griponwez",,,way
+"Rue Gritte",,,way
+"Rue Hyppolite",,,way
+"Rue Jules Bordet",,,way
+"Rue Kattekop",,,way
+"Rue La Rue",,,way
+"Rue La Vau",,,way
+"Rue Les Saules",,,way
+"Rue Longchamp",,,way
+"Rue Longue",,,way
+"Rue Motte des Bergers",,,way
+"Rue Mottet",,,way
+"Rue Notre-Dame",,,way
+"Rue Palau",,,way
+"Rue Pergère",,,way
+"Rue Petit Jean",,,way
+"Rue Pré de la blanche Maison",,,way
+"Rue Ramelot",,,way
+"Rue Rivelaine",,,way
+"Rue Scheppers",,,way
+"Rue Scolasse",,,way
+"Rue Timpe et Tard",,,way
+"Rue Tour des Vaux",,,way
+"Rue Verte",,,way
+"Rue à la Marne",,,way
+"Rue au Gué",,,way
+"Rue d'Abeiche",,,way
+"Rue d'Alconval",,,way
+"Rue d'Arconval",,,way
+"Rue d'Hennuyères",,,way
+"Rue d'Hennuyères (Nord) - Rue de la Ferme du Pré (Sud)",,,way
+"Rue d'Odeghien",,,way
+"Rue de Bois-Seigneur-Isaac",,,way
+"Rue de Cambrai",,,way
+"Rue de Caraute",,,way
+"Rue de Dinant",,,way
+"Rue de Hal",,,way
+"Rue de L'Énergie",,,way
+"Rue de Lillois",,,way
+"Rue de Merbraine",,,way
+"Rue de Paudure",,,way
+"Rue de Sart-Moulin",,,way
+"Rue de l'Abbaye",,,way
+"Rue de l'Ancien Bourg",,,way
+"Rue de l'Ancienne Forge",,,way
+"Rue de l'Eau Vive",,,way
+"Rue de l'Eglise",,,way
+"Rue de l'Epine Pucelle",,,way
+"Rue de l'Hôpital",,,way
+"Rue de l'école",,,way
+"Rue de la Basse Mouturie",,,way
+"Rue de la Basse-Cour",,,way
+"Rue de la Bouvrée",,,way
+"Rue de la Briqueterie",,,way
+"Rue de la Bruyère",,,way
+"Rue de la Chiennerie",,,way
+"Rue de la Colonelle",,,way
+"Rue de la Croix",,,way
+"Rue de la Croix de Pierre",,,way
+"Rue de la Dame à la Rose",,,way
+"Rue de la Filature",,,way
+"Rue de la Fontaine",,,way
+"Rue de la Fosse au Sable",,,way
+"Rue de la Fraternité",,,way
+"Rue de la Gare",,,way
+"Rue de la Goëtte",,,way
+"Rue de la Graignette",,,way
+"Rue de la Haute Borne",,,way
+"Rue de la Houlette",,,way
+"Rue de la Justice",,,way
+"Rue de la Légère Eau",,,way
+"Rue de la Libération",,,way
+"Rue de la Maloux",,,way
+"Rue de la Malplaquée",,,way
+"Rue de la Neuve Cour",,,way
+"Rue de la Neuville",,,way
+"Rue de la Papyrée",,,way
+"Rue de la Planche au Pêcheur",,,way
+"Rue de la Royale Harmonie",,,way
+"Rue de la Semaillère",,,way
+"Rue de la Solidarité",,,way
+"Rue de la Trairée",,,way
+"Rue de la Vallée Bailly",,,way
+"Rue de la Vau",,,way
+"Rue de la croix de pierre",,,way
+"Rue de la légère Eau",,,way
+"Rue des Acacias",,,way
+"Rue des Alliés",,,way
+"Rue des Arbalétriers",,,way
+"Rue des Archers",,,way
+"Rue des Aunes",,,way
+"Rue des Badauds",,,relation
+"Rue des Belles Pierres",,,way
+"Rue des Berges du ruisseau",,,way
+"Rue des Bleuets",,,way
+"Rue des Brasseurs",,,way
+"Rue des Champs du Bois",,,way
+"Rue des Chardonnerets",,,way
+"Rue des Châtaigniers",,,way
+"Rue des Chênes",,,way
+"Rue des Combattants",,,way
+"Rue des Croix du Feu",,,way
+"Rue des Déportés",,,way
+"Rue des Fauvettes",,,way
+"Rue des Fossés",,,way
+"Rue des Frênes",,,way
+"Rue des Genêts",,,way
+"Rue des Hauts Tiennes",,,way
+"Rue des Hirondelles",,,way
+"Rue des Jambes",,,way
+"Rue des Joncs",,,way
+"Rue des Lilas",,,way
+"Rue des Maçons Fumistes",,,way
+"Rue des Marolles",,,way
+"Rue des Mérisiers",,,way
+"Rue des Mésanges Bleues",,,way
+"Rue des Nénuphars",,,way
+"Rue des Noisetiers",,,way
+"Rue des Ormes",,,way
+"Rue des Pâquerettes",,,way
+"Rue des Paveurs",,,way
+"Rue des Piles",,,way
+"Rue des Platanes",,,way
+"Rue des Renclots",,,way
+"Rue des Résistants",,,way
+"Rue des Roseaux",,,way
+"Rue des Salamandres",,,way
+"Rue des Salanganes",,,way
+"Rue des Saussois",,,way
+"Rue des Taillis",,,way
+"Rue des Tilleuls",,,way
+"Rue des Tisserands",,,way
+"Rue des fleurs",,,way
+"Rue des trois Apôtres",,,way
+"Rue du Batisseau",,,way
+"Rue du Baty",,,way
+"Rue du Berger",,,way
+"Rue du Bois Planté",,,way
+"Rue du Bois d'Hawia",,,way
+"Rue du Bon Air",,,way
+"Rue du Bossu",,,way
+"Rue du Bouton d'Or",,,way
+"Rue du Castegier",,,way
+"Rue du Charron",,,way
+"Rue du Château",,,way
+"Rue du Château d'eau",,,way
+"Rue du Chevreuil",,,way
+"Rue du Cimetière",,,way
+"Rue du Cimorne",,,way
+"Rue du Coeur d'Or",,,way
+"Rue du Coin de Terre",,,way
+"Rue du Colbie",,,way
+"Rue du Cours d'Eau",,,way
+"Rue du Cuisinier",,,way
+"Rue du Dessus",,,way
+"Rue du Doignon",,,way
+"Rue du Drape",,,way
+"Rue du Faisan",,,way
+"Rue du Four",,,way
+"Rue du Gazon",,,way
+"Rue du Hain",,,way
+"Rue du Hainaut",,,way
+"Rue du Hautmont",,,way
+"Rue du Jacquier",,,way
+"Rue du Jardinier",,,way
+"Rue du Loup (Chemin n°5)",,,way
+"Rue du Marais",,,way
+"Rue du Marché aux Porcs",,,way
+"Rue du Marteau",,,way
+"Rue du Ménil",,,way
+"Rue du Meunier - Mulderstraat",,,way
+"Rue du Môle",,,way
+"Rue du Moulin à Aubes",,,way
+"Rue du Moulin à Eau",,,way
+"Rue du Nicage",,,way
+"Rue du Paradis",,,way
+"Rue du Pirois",,,way
+"Rue du Rossignol",,,way
+"Rue du Ry Ternel",,,way
+"Rue du Serment",,,way
+"Rue du Soleil Levant",,,way
+"Rue du Try",,,way
+"Rue du Valcq",,,way
+"Rue du Vert Coucou",,,way
+"Rue du Vieux Foriest",,,way
+"Rue du Vignoble",,,way
+"Rue du moulin",,,way
+"Rue les Brûlés",,,way
+"Rue les Culots",,,way
+"Rue les Hayettes",,,way
+"Rue les Tiennes",,,way
+"Rue les Tiennes 70",,,way
+"Ruelle Margot",,,way
+"Ruelle du Try",,,way
+"Sentier 32",,,way
+"Sentier 36",,,way
+"Sentier 52",,,way
+"Sentier Bailleu",,,way
+"Sentier Broctiaux",,,way
+"Sentier Bruyère de Noucelles",,,way
+"Sentier Cave de Paudure",,,way
+"Sentier Le Roctia",,,way
+"Sentier Longchamps Bouvrée",,,way
+"Sentier Rossomme",,,way
+"Sentier Scolasse",,,way
+"Sentier Tahoux",,,way
+"Sentier Timpe et Tard",,,way
+"Sentier Vieille Carrière",,,way
+"Sentier de Bon Air",,,way
+"Sentier de Saint-Zèle",,,way
+"Sentier de la Berlotte",,,way
+"Sentier de la Bonne Fosse",,,way
+"Sentier de la Bruyère",,,way
+"Sentier de la Bruyère de Cambrai",,,way
+"Sentier de la Croix Charles Boucher",,,way
+"Sentier de la Fontaine",,,way
+"Sentier de la Goëtte",,,way
+"Sentier de la Grosse Borne",,,way
+"Sentier de la Justice",,,way
+"Sentier de la Muraille du Parc",,,way
+"Sentier de la Praye",,,way
+"Sentier de la Vallée",,,way
+"Sentier de la Vieille Ferme de Cambrai",,,way
+"Sentier des Belles Pierres",,,way
+"Sentier des Moines",,,way
+"Sentier du Bon Air",,,way
+"Sentier du Drape",,,way
+"Sentier du Mayeur",,,way
+"Sentier du Moulin à Vent",,,way
+"Sentier du Pré Coquette",,,way
+"Sentier du Rossignol",,,way
+"Sentier du Try",,,way
+"Sentier le Clauswheyde",,,way
+"Sentier le Secheron",,,way
+"Sentier n° 53",,,way
+"Sentier n°128",,,way
+"Sentier n°138",,,way
+"Sentier n°192",,,way
+"Sentier n°56",,,way
+"Square Riva-Bella",,,way
+"Square d'Hougoumont",,,way
+"Square du Valcq",,,way
+"Terkluizendreef - Drève Dudinsart",,,way
+"Turkooislaan - Avenue de la Turquoise",,,way
+"Vieux Chemin de Nivelles",,,way
+"Zavelbergweg - Chemin des Sables",,,way
+"Zevenbronnen - Sept Fontaines",,,way
+"promenade du Blanc Cailloux",,,way
