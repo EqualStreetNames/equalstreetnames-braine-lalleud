@@ -10,7 +10,8 @@ on:
       - completed
 
 defaults:
-  working-directory: website
+  run:
+    working-directory: website
 
 jobs:
   build-and-deploy:
