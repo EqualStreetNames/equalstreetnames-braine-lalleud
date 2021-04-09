@@ -34,7 +34,7 @@ jobs:
         run: composer validate
       - name: Install dependencies
         working-directory: process
-        run: composer install --prefer-dist --no-progress --no-suggest
+        run: composer install --prefer-dist --no-progress
 
       - name: Checkout submodule to master
         working-directory: cities/belgium/braine-lalleud
