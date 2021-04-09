@@ -9,7 +9,7 @@ on:
     types:
       - completed
 
-default:
+defaults:
   working-directory: website
 
 jobs:
