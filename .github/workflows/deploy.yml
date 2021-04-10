@@ -24,10 +24,12 @@ jobs:
           persist-credentials: false
           submodules: true
 
-      - name: Install and Build
-        run: |
-          npm install
-          npm run build:belgium:braine-lalleud
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 15.x
+          check-latest: true
+      - run: npm install
+      - run: npm run build:belgium:braine-lalleud
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
 
@@ -37,5 +39,5 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           REPOSITORY_NAME: EqualStreetNames/equalstreetnames-braine-lalleud
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'dist/belgium/braine-lalleud' # The folder the action should deploy.
+          FOLDER: 'website/dist/belgium/braine-lalleud' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
