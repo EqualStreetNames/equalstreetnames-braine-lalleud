@@ -1,95 +1,95 @@
-name,gender,wikidata,type
-"Avenue Béatrice de Cusance",F,Q660224,way
-"Avenue Reine Astrid",F,Q230238,way
-"Chaussée Reine Astrid",F,Q230238,way
-"Clos Sainte-Rita",F,Q153024,way
-"Clos Sainte-Rolande",F,Q21512031,way
-"Place Sainte-Anne",F,Q164294,way
-"Rue Sainte-Anne",F,Q164294,way
-"Allée Saint-Martin",M,Q133704,way
-"Avenue Albert 1er",M,Q55008046,way
-"Avenue Alphonse Allard",M,Q28687475,way
-"Avenue Blücher",M,Q153522,way
-"Avenue Capitaine Mercer",M,Q5054791,way
-"Avenue Général Milhaud",M,Q274338,way
-"Avenue Général Ruquoy",M,Q3263065,way
-"Avenue Jacques Brel",M,Q1666,way
-"Avenue Léon Jourez",M,Q3271092,way
-"Avenue Maréchal Ney",M,Q40756,way
-"Avenue Napoléon",M,Q517,way
-"Avenue Prince Jérôme Bonaparte",M,Q151087,way
-"Avenue Sir Walter Scott",M,Q79025,way
-"Avenue Victor Hugo",M,Q535,way
-"Avenue Wellington",M,Q131691,way
-"Avenue du Général Kellerman",M,Q138105,way
-"Avenue du Prince Charles de Lorraine",M,Q158232,way
-"Boulevard Pire Lefèbvre Desnouettes",M,Q2362056,way
-"Clos Lamartine",M,Q188697,way
-"Grand-Place Baudouin Ier",M,Q12976,way
-"Place Cardinal Mercier",M,Q468097,way
-"Place Saint-Sébastien",M,Q183332,way
-"Rue Albert Desenfans",M,Q2630662,way
-"Rue César Franck",M,Q50187,way
-"Rue Charles De Coster",M,Q315176,way
-"Rue Charles Plisnier",M,Q1065801,way
-"Rue Chopin",M,Q1268,way
-"Rue Debussy",M,Q4700,way
-"Rue Gaston Reiff",M,Q558465,way
-"Rue Georges Rodenbach",M,Q378240,way
-"Rue Georges Simenon",M,Q128790,way
-"Rue Henri Pirenne",M,Q312501,way
-"Rue Jean Volders",M,Q3175076,way
-"Rue Jean-Sébastien Bach",M,Q1339,way
-"Rue Jules Bordet",M,Q211787,way
-"Rue Jules Destrée",M,Q522308,way
-"Rue Jules Hans",M,Q11295532,way
-"Rue Marcel Thiry",M,Q2146661,way
-"Rue Maurice Carême",M,Q1395991,way
-"Rue Maurice Maeterlinck",M,Q49747,way
-"Rue Mozart",M,Q254,way
-"Rue Rombaut",M,Q965463,way
-"Rue Saint-Laurent",M,Q17590,way
-"Rue Saint-Saens",M,Q150445,way
-"Rue Saint-Sébastien",M,Q183332,way
-"Rue Stanislas-André Steeman",M,Q302296,way
-"Square Drouet d'Erlon",M,Q921887,way
-"Square Lully",M,Q1192,way
-"Square Ravel",M,Q1178,way
-"Avenue Abbesse de Remiremont",F,,way
-"Rue Marie Tête de Bois",F,,way
-"Rue Sainte-Gertrude",F,,way
-"Avenue Georges Rousseau",M,,way
-"Avenue Henri de Witthem",M,,way
-"Avenue Raymond Brassinne",M,,way
-"Avenue Saint-Jacques",M,,way
-"Avenue du Prince d'Orange",M,,way
-"Chemin Jean Lanneau",M,,way
-"Chemin de Pierre Charlier",M,,way
-"Clos Armand Bernier",M,,way
-"Clos Saint-Jean",M,,way
-"Clos du Prince d'Orange",M,,way
-"Drève du Petit Père Denis",M,,way
-"Drève du Petit Père Michel",M,,way
-"Place Abbé Renard",M,,way
-"Rue Armand Wilputte",M,,way
-"Rue Armand de Moor",M,,way
-"Rue Arnould Bourgeys",M,,way
-"Rue Comte Jacques de Meeus",M,,way
-"Rue Doyen Van Belle",M,,way
-"Rue Émile Dury",M,,way
-"Rue Ernest Laurent",M,,way
-"Rue Gaston Dubois",M,,way
-"Rue Jacques Hubeau",M,,way
-"Rue Jean Lanneau",M,,way
-"Rue Jean le Meunier",M,,way
-"Rue Joseph Gos",M,,way
-"Rue Marius Wautier",M,,way
-"Rue Michel Botte",M,,way
-"Rue Norbert Bourgeys",M,,way
-"Rue Petit Jean",M,,way
-"Rue Pierre Flamand",M,,way
-"Rue Raymond Lebleux",M,,way
-"Rue René Francq",M,,way
-"Rue Roger Laus",M,,way
-"Rue Saint-Nicolas",M,,way
-"Rue Wayez",M,,way
+name,source,gender,wikidata,type
+"Avenue Béatrice de Cusance",wikidata,F,Q660224,way
+"Avenue Reine Astrid",wikidata,F,Q230238,way
+"Chaussée Reine Astrid",wikidata,F,Q230238,way
+"Clos Sainte-Rita",wikidata,F,Q153024,way
+"Clos Sainte-Rolande",wikidata,F,Q21512031,way
+"Place Sainte-Anne",wikidata,F,Q164294,way
+"Rue Sainte-Anne",wikidata,F,Q164294,way
+"Allée Saint-Martin",wikidata,M,Q133704,way
+"Avenue Albert 1er",wikidata,M,Q55008046,way
+"Avenue Alphonse Allard",wikidata,M,Q28687475,way
+"Avenue Blücher",wikidata,M,Q153522,way
+"Avenue Capitaine Mercer",wikidata,M,Q5054791,way
+"Avenue Général Milhaud",wikidata,M,Q274338,way
+"Avenue Général Ruquoy",wikidata,M,Q3263065,way
+"Avenue Jacques Brel",wikidata,M,Q1666,way
+"Avenue Léon Jourez",wikidata,M,Q3271092,way
+"Avenue Maréchal Ney",wikidata,M,Q40756,way
+"Avenue Napoléon",wikidata,M,Q517,way
+"Avenue Prince Jérôme Bonaparte",wikidata,M,Q151087,way
+"Avenue Sir Walter Scott",wikidata,M,Q79025,way
+"Avenue Victor Hugo",wikidata,M,Q535,way
+"Avenue Wellington",wikidata,M,Q131691,way
+"Avenue du Général Kellerman",wikidata,M,Q138105,way
+"Avenue du Prince Charles de Lorraine",wikidata,M,Q158232,way
+"Boulevard Pire Lefèbvre Desnouettes",wikidata,M,Q2362056,way
+"Clos Lamartine",wikidata,M,Q188697,way
+"Grand-Place Baudouin Ier",wikidata,M,Q12976,way
+"Place Cardinal Mercier",wikidata,M,Q468097,way
+"Place Saint-Sébastien",wikidata,M,Q183332,way
+"Rue Albert Desenfans",wikidata,M,Q2630662,way
+"Rue César Franck",wikidata,M,Q50187,way
+"Rue Charles De Coster",wikidata,M,Q315176,way
+"Rue Charles Plisnier",wikidata,M,Q1065801,way
+"Rue Chopin",wikidata,M,Q1268,way
+"Rue Debussy",wikidata,M,Q4700,way
+"Rue Gaston Reiff",wikidata,M,Q558465,way
+"Rue Georges Rodenbach",wikidata,M,Q378240,way
+"Rue Georges Simenon",wikidata,M,Q128790,way
+"Rue Henri Pirenne",wikidata,M,Q312501,way
+"Rue Jean Volders",wikidata,M,Q3175076,way
+"Rue Jean-Sébastien Bach",wikidata,M,Q1339,way
+"Rue Jules Bordet",wikidata,M,Q211787,way
+"Rue Jules Destrée",wikidata,M,Q522308,way
+"Rue Jules Hans",wikidata,M,Q11295532,way
+"Rue Marcel Thiry",wikidata,M,Q2146661,way
+"Rue Maurice Carême",wikidata,M,Q1395991,way
+"Rue Maurice Maeterlinck",wikidata,M,Q49747,way
+"Rue Mozart",wikidata,M,Q254,way
+"Rue Rombaut",wikidata,M,Q965463,way
+"Rue Saint-Laurent",wikidata,M,Q17590,way
+"Rue Saint-Saens",wikidata,M,Q150445,way
+"Rue Saint-Sébastien",wikidata,M,Q183332,way
+"Rue Stanislas-André Steeman",wikidata,M,Q302296,way
+"Square Drouet d'Erlon",wikidata,M,Q921887,way
+"Square Lully",wikidata,M,Q1192,way
+"Square Ravel",wikidata,M,Q1178,way
+"Avenue Abbesse de Remiremont",config,F,,way
+"Rue Marie Tête de Bois",config,F,,way
+"Rue Sainte-Gertrude",config,F,,way
+"Avenue Georges Rousseau",config,M,,way
+"Avenue Henri de Witthem",config,M,,way
+"Avenue Raymond Brassinne",config,M,,way
+"Avenue Saint-Jacques",config,M,,way
+"Avenue du Prince d'Orange",config,M,,way
+"Chemin Jean Lanneau",config,M,,way
+"Chemin de Pierre Charlier",config,M,,way
+"Clos Armand Bernier",config,M,,way
+"Clos Saint-Jean",config,M,,way
+"Clos du Prince d'Orange",config,M,,way
+"Drève du Petit Père Denis",config,M,,way
+"Drève du Petit Père Michel",config,M,,way
+"Place Abbé Renard",config,M,,way
+"Rue Armand Wilputte",config,M,,way
+"Rue Armand de Moor",config,M,,way
+"Rue Arnould Bourgeys",config,M,,way
+"Rue Comte Jacques de Meeus",config,M,,way
+"Rue Doyen Van Belle",config,M,,way
+"Rue Émile Dury",config,M,,way
+"Rue Ernest Laurent",config,M,,way
+"Rue Gaston Dubois",config,M,,way
+"Rue Jacques Hubeau",config,M,,way
+"Rue Jean Lanneau",config,M,,way
+"Rue Jean le Meunier",config,M,,way
+"Rue Joseph Gos",config,M,,way
+"Rue Marius Wautier",config,M,,way
+"Rue Michel Botte",config,M,,way
+"Rue Norbert Bourgeys",config,M,,way
+"Rue Petit Jean",config,M,,way
+"Rue Pierre Flamand",config,M,,way
+"Rue Raymond Lebleux",config,M,,way
+"Rue René Francq",config,M,,way
+"Rue Roger Laus",config,M,,way
+"Rue Saint-Nicolas",config,M,,way
+"Rue Wayez",config,M,,way
