@@ -55,41 +55,41 @@ name,source,gender,wikidata,type
 "Square Drouet d'Erlon",wikidata,M,Q921887,way
 "Square Lully",wikidata,M,Q1192,way
 "Square Ravel",wikidata,M,Q1178,way
-"Avenue Abbesse de Remiremont",config,F,,way
-"Rue Marie Tête de Bois",config,F,,way
-"Rue Sainte-Gertrude",config,F,,way
-"Avenue Georges Rousseau",config,M,,way
-"Avenue Henri de Witthem",config,M,,way
-"Avenue Raymond Brassinne",config,M,,way
-"Avenue Saint-Jacques",config,M,,way
-"Avenue du Prince d'Orange",config,M,,way
-"Chemin Jean Lanneau",config,M,,way
-"Chemin de Pierre Charlier",config,M,,way
-"Clos Armand Bernier",config,M,,way
-"Clos Saint-Jean",config,M,,way
-"Clos du Prince d'Orange",config,M,,way
-"Drève du Petit Père Denis",config,M,,way
-"Drève du Petit Père Michel",config,M,,way
-"Place Abbé Renard",config,M,,way
-"Rue Armand Wilputte",config,M,,way
-"Rue Armand de Moor",config,M,,way
-"Rue Arnould Bourgeys",config,M,,way
-"Rue Comte Jacques de Meeus",config,M,,way
-"Rue Doyen Van Belle",config,M,,way
-"Rue Émile Dury",config,M,,way
-"Rue Ernest Laurent",config,M,,way
-"Rue Gaston Dubois",config,M,,way
-"Rue Jacques Hubeau",config,M,,way
-"Rue Jean Lanneau",config,M,,way
-"Rue Jean le Meunier",config,M,,way
-"Rue Joseph Gos",config,M,,way
-"Rue Marius Wautier",config,M,,way
-"Rue Michel Botte",config,M,,way
-"Rue Norbert Bourgeys",config,M,,way
-"Rue Petit Jean",config,M,,way
-"Rue Pierre Flamand",config,M,,way
-"Rue Raymond Lebleux",config,M,,way
-"Rue René Francq",config,M,,way
-"Rue Roger Laus",config,M,,way
-"Rue Saint-Nicolas",config,M,,way
-"Rue Wayez",config,M,,way
+"Avenue Abbesse de Remiremont",csv,F,,way
+"Rue Marie Tête de Bois",csv,F,,way
+"Rue Sainte-Gertrude",csv,F,,way
+"Avenue Georges Rousseau",csv,M,,way
+"Avenue Henri de Witthem",csv,M,,way
+"Avenue Raymond Brassinne",csv,M,,way
+"Avenue Saint-Jacques",csv,M,,way
+"Avenue du Prince d'Orange",csv,M,,way
+"Chemin Jean Lanneau",csv,M,,way
+"Chemin de Pierre Charlier",csv,M,,way
+"Clos Armand Bernier",csv,M,,way
+"Clos Saint-Jean",csv,M,,way
+"Clos du Prince d'Orange",csv,M,,way
+"Drève du Petit Père Denis",csv,M,,way
+"Drève du Petit Père Michel",csv,M,,way
+"Place Abbé Renard",csv,M,,way
+"Rue Armand Wilputte",csv,M,,way
+"Rue Armand de Moor",csv,M,,way
+"Rue Arnould Bourgeys",csv,M,,way
+"Rue Comte Jacques de Meeus",csv,M,,way
+"Rue Doyen Van Belle",csv,M,,way
+"Rue Émile Dury",csv,M,,way
+"Rue Ernest Laurent",csv,M,,way
+"Rue Gaston Dubois",csv,M,,way
+"Rue Jacques Hubeau",csv,M,,way
+"Rue Jean Lanneau",csv,M,,way
+"Rue Jean le Meunier",csv,M,,way
+"Rue Joseph Gos",csv,M,,way
+"Rue Marius Wautier",csv,M,,way
+"Rue Michel Botte",csv,M,,way
+"Rue Norbert Bourgeys",csv,M,,way
+"Rue Petit Jean",csv,M,,way
+"Rue Pierre Flamand",csv,M,,way
+"Rue Raymond Lebleux",csv,M,,way
+"Rue René Francq",csv,M,,way
+"Rue Roger Laus",csv,M,,way
+"Rue Saint-Nicolas",csv,M,,way
+"Rue Wayez",csv,M,,way
