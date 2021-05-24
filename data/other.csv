@@ -26,7 +26,7 @@ name,source,gender,wikidata,type
 "Avenue de Suède",,,,way
 "Avenue de Tchéquie",,,,way
 "Avenue de Tenbroeck",,,,way
-"Avenue de Vaudemont",,,,relation
+"Avenue de Vaudemont",,,,relation+way
 "Avenue de l'Aiglon",,,,way
 "Avenue de l'Alleu",,,,way
 "Avenue de l'Ancienne Barrière",,,,way
@@ -258,7 +258,6 @@ name,source,gender,wikidata,type
 "Clos du Thuyas",,,,way
 "Clos du Val de l'écossais",,,,way
 "Clos du Vitrier",,,,way
-Diepestraat,,,,way
 "Drève de Colipain",,,,way
 "Drève des Pins",,,,way
 "Drève du Bois de Mai",,,,way
