@@ -177,13 +177,13 @@ name,source,gender,wikidata,type
 "Chemin de la Maloue",,,,way
 "Chemin de la Praye",,,,way
 "Chemin de la chapelle",,,,way
-"Chemin des 7 Fontaines",,,,way
 "Chemin des Brûlés",,,,way
 "Chemin des Eglantiers",,,,way
 "Chemin des Oisillons",,,,way
 "Chemin des Pères",,,,way
 "Chemin des Piécettes",,,,way
 "Chemin des Roussettes",,,,way
+"Chemin des Sept Fontaines",,,,way
 "Chemin des Sept Fontaines - Zevenbronnenweg",,,,way
 "Chemin des Vertes Bornes",,,,way
 "Chemin des Voiturons",,,,way
@@ -239,6 +239,7 @@ name,source,gender,wikidata,type
 "Clos de la Sapinière",,,,way
 "Clos des Brûlots",,,,way
 "Clos des Centenaires",,,,way
+"Clos des Ertriers",,,,way
 "Clos des Pommiers",,,,way
 "Clos des Tilleuls",,,,way
 "Clos des Verdiers",,,,way
