@@ -13,7 +13,6 @@ name,source,gender,wikidata,type
 "Avenue de Basingstoke",,,,way
 "Avenue de Cantecroy",,,,way
 "Avenue de Drummondville",,,,way
-"Avenue de Fief",,,,way
 "Avenue de Finlande",,,,way
 "Avenue de Guéménée",,,,way
 "Avenue de Jéricho",,,,way
@@ -43,7 +42,7 @@ name,source,gender,wikidata,type
 "Avenue de la Brise",,,,way
 "Avenue de la Chevauchée",,,,way
 "Avenue de la Corniche",,,,way
-"Avenue de la Criniere",,,,way
+"Avenue de la Crinière",,,,way
 "Avenue de la Croix Poncin",,,,way
 "Avenue de la Croix Rouge",,,,way
 "Avenue de la Douce Colline",,,,way
@@ -111,6 +110,7 @@ name,source,gender,wikidata,type
 "Avenue du Commerce",,,,way
 "Avenue du Dernier Carré",,,,way
 "Avenue du Feuillage",,,,way
+"Avenue du Fief",,,,way
 "Avenue du Forgeron",,,,way
 "Avenue du Japon",,,,way
 "Avenue du Mont Marcure",,,,way
@@ -146,7 +146,6 @@ name,source,gender,wikidata,type
 "Chemin Baty de la Croix Charles Boucher",,,,way
 "Chemin Baty de la Justice",,,,way
 "Chemin Bertinchamps",,,,way
-"Chemin Bois du Vicaire",,,,way
 "Chemin Broctiaux",,,,way
 "Chemin Chesseroux",,,,way
 "Chemin Lazard",,,,way
@@ -170,7 +169,7 @@ name,source,gender,wikidata,type
 "Chemin de l'Ange Gardien",,,,way
 "Chemin de l'Ermite",,,,way
 "Chemin de l'Infante",,,,way
-"Chemin de la Bruyere d'Alconval",,,,way
+"Chemin de la Bruyère d'Alconval",,,,way
 "Chemin de la Carrière",,,,way
 "Chemin de la Cense",,,,way
 "Chemin de la Maison du Roi",,,,way
@@ -192,6 +191,7 @@ name,source,gender,wikidata,type
 "Chemin du Bois Moulin",,,,way
 "Chemin du Bois d'Ophain",,,,way
 "Chemin du Bois de Hal",,,,way
+"Chemin du Bois du Vicaire",,,,way
 "Chemin du Bosquet Del Vau",,,,way
 "Chemin du Champ",,,,way
 "Chemin du Champ de l'Épine",,,,way
@@ -282,6 +282,7 @@ Passerelle,,,,way
 "Petite Rue du Château d'Eau",,,,way
 "Petite rue à l'art",,,,way
 "Place Colo-Hugues",,,,way
+"Place Saint-Zèle",,,,way
 "Place d'Italie",,,,way
 "Place d'Ophain",,,,way
 "Place de la Gare",,,,way
@@ -289,7 +290,6 @@ Passerelle,,,,way
 "Place du Luxembourg",,,,way
 "Place du Môle",,,,way
 "Place du Quartier Saint-Jacques (Ouest) - Chaussée d'Ophain (Est)",,,,way
-"Place du Saint Zèle",,,,way
 "Pont Courbe",,,,way
 "Pré du Chapitre",,,,way
 "Pré-RAVeL de Noucelles",,,,way
@@ -391,7 +391,7 @@ Passerelle,,,,way
 "Rue de la Libération",,,,way
 "Rue de la Maloux",,,,way
 "Rue de la Malplaquée",,,,way
-"Rue de la Neuve Cour",,,,way
+"Rue de la Neuve-Cour",,,,way
 "Rue de la Neuville",,,,way
 "Rue de la Papyrée",,,,way
 "Rue de la Planche au Pêcheur",,,,way

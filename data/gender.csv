@@ -60,10 +60,10 @@ name,source,gender,wikidata,type
 "Rue Marie Tête de Bois",csv,F,,way
 "Rue Sainte-Gertrude",csv,F,,way
 "Avenue Georges Rousseau",csv,M,,way
-"Avenue Henri de Witthem",csv,M,,way
+"Avenue Henri de Withem",csv,M,,way
+"Avenue Prince d'Orange",csv,M,,way
 "Avenue Raymond Brassinne",csv,M,,way
 "Avenue Saint-Jacques",csv,M,,way
-"Avenue du Prince d'Orange",csv,M,,way
 "Chemin Jean Lanneau",csv,M,,way
 "Chemin de Pierre Charlier",csv,M,,way
 "Clos Armand Bernier",csv,M,,way
@@ -75,7 +75,7 @@ name,source,gender,wikidata,type
 "Rue Armand Wilputte",csv,M,,way
 "Rue Armand de Moor",csv,M,,way
 "Rue Arnould Bourgeys",csv,M,,way
-"Rue Comte Jacques de Meeus",csv,M,,way
+"Rue Comte Jacques de Meeüs",csv,M,,way
 "Rue Doyen Van Belle",csv,M,,way
 "Rue Émile Dury",csv,M,,way
 "Rue Ernest Laurent",csv,M,,way
