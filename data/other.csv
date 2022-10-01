@@ -1,5 +1,26 @@
 name,source,gender,wikidata,type
 "Avenue Déesse Pomone",wikidata,,Q171239,way
+"Avenue des Pinsons",wikidata,,Q30241,way
+"Avenue des Tarins",wikidata,,Q3515726,way
+"Avenue des Tourterelles",wikidata,,Q3535557,way
+"Avenue du Bouvreuil",wikidata,,Q843173,way
+"Avenue du Feuillage",wikidata,,Q33971,way
+"Chaussée d'Ophain",wikidata,,Q2629326,way
+"Clos de l'Araucaria",wikidata,,Q157214,way
+"Clos de l'Epicéa",wikidata,,Q26782,way
+"Clos de la Pépinière",wikidata,,Q155511,way
+"Clos de la Sapinière",wikidata,,Q13561020,way
+"Clos du Cèdres",wikidata,,Q128550,way
+"Clos du Conifère",wikidata,,Q1000370,way
+"Clos du Genévrier",wikidata,,Q25662,way
+"Clos du Mélèze",wikidata,,Q16665805,way
+"Clos du Séquoias",wikidata,,Q1975652,way
+"Clos du Thuyas",wikidata,,Q147255,way
+"Rue de Cambrai",wikidata,,Q181285,way
+"Rue de L'Énergie",wikidata,,Q11379,way
+"Rue de l'Hôpital",wikidata,,Q16917,way
+"Rue des Arbalétriers",wikidata,,Q2859615,way
+"Rue des Archers",wikidata,,Q890527,way
 "Ancienne ligne 115",,,,way
 "Av'nuwe du Pont des Diâp",,,,way
 "Avenue Bel Air",,,,way
@@ -81,15 +102,12 @@ name,source,gender,wikidata,type
 "Avenue des Muguets",,,,way
 "Avenue des Octrois",,,,way
 "Avenue des Pétunias",,,,way
-"Avenue des Pinsons",,,,way
 "Avenue des Quatre Saisons",,,,way
 "Avenue des Ramiers",,,,way
 "Avenue des Roses",,,,way
 "Avenue des Rouges-Gorges",,,,way
 "Avenue des Sorbiers",,,,way
 "Avenue des Sources",,,,way
-"Avenue des Tarins",,,,way
-"Avenue des Tourterelles",,,,way
 "Avenue des Trois Battues",,,,way
 "Avenue des Vanneaux",,,,way
 "Avenue des Verts Pâturages",,,,way
@@ -100,7 +118,6 @@ name,source,gender,wikidata,type
 "Avenue du Beau Site",,,,way
 "Avenue du Bois Amory",,,,way
 "Avenue du Bois des Collines",,,,way
-"Avenue du Bouvreuil",,,,way
 "Avenue du Cadre Noir",,,,way
 "Avenue du Callois",,,,way
 "Avenue du Castel",,,,way
@@ -109,7 +126,6 @@ name,source,gender,wikidata,type
 "Avenue du Clair Soleil",,,,way
 "Avenue du Commerce",,,,way
 "Avenue du Dernier Carré",,,,way
-"Avenue du Feuillage",,,,way
 "Avenue du Fief",,,,way
 "Avenue du Forgeron",,,,way
 "Avenue du Japon",,,,way
@@ -131,7 +147,6 @@ name,source,gender,wikidata,type
 "Chaussée Bara",,,,way
 "Chaussée d'Alsemberg",,,,way
 "Chaussée d'Alsemberg - Eigenbrakelse Steenweg",,,,way
-"Chaussée d'Ophain",,,,way
 "Chaussée de Charleroi",,,,way
 "Chaussée de Mont-Saint-Jean",,,,way
 "Chaussée de Nivelles",,,,way
@@ -226,8 +241,6 @@ name,source,gender,wikidata,type
 "Clos Bourdon",,,,way
 "Clos de Belvoir",,,,way
 "Clos de L'aurore",,,,way
-"Clos de l'Araucaria",,,,way
-"Clos de l'Epicéa",,,,way
 "Clos de l'Ermite",,,,way
 "Clos de l'Horizon",,,,way
 "Clos de l'If",,,,way
@@ -235,9 +248,7 @@ name,source,gender,wikidata,type
 "Clos de la Ferme de l'Agent",,,,way
 "Clos de la Houblonnière",,,,way
 "Clos de la Masserée",,,,way
-"Clos de la Pépinière",,,,way
 "Clos de la Rose",,,,way
-"Clos de la Sapinière",,,,way
 "Clos des Brûlots",,,,way
 "Clos des Centenaires",,,,way
 "Clos des Ertriers",,,,way
@@ -246,21 +257,15 @@ name,source,gender,wikidata,type
 "Clos des Verdiers",,,,way
 "Clos des épinoches",,,,way
 "Clos du Bois Fleuri",,,,way
-"Clos du Cèdres",,,,way
 "Clos du Champ d'Abeiche",,,,way
 "Clos du Colbie",,,,way
-"Clos du Conifère",,,,way
 "Clos du Cyprès",,,,way
-"Clos du Genévrier",,,,way
-"Clos du Mélèze",,,,way
 "Clos du Paddock",,,,way
 "Clos du Parc",,,,way
 "Clos du Poney",,,,way
 "Clos du Sadin",,,,way
 "Clos du Sarty",,,,way
-"Clos du Séquoias",,,,way
 "Clos du Taillevent",,,,way
-"Clos du Thuyas",,,,way
 "Clos du Triton",,,,way
 "Clos du Val de l'écossais",,,,way
 "Clos du Vitrier",,,,way
@@ -331,7 +336,6 @@ Passerelle,,,,way
 "Rue Longue",,,,way
 "Rue Motte des Bergers",,,,way
 "Rue Mottet",,,,way
-"Rue Notre-Dame",,,,way
 "Rue Palau",,,,way
 "Rue Pergère",,,,way
 "Rue Pré de la blanche Maison",,,,way
@@ -349,12 +353,10 @@ Passerelle,,,,way
 "Rue d'Hennuyères (Nord) - Rue de la Ferme du Pré (Sud)",,,,way
 "Rue d'Odeghien",,,,way
 "Rue de Bois-Seigneur-Isaac",,,,way
-"Rue de Cambrai",,,,way
 "Rue de Caraute",,,,way
 "Rue de Dinant",,,,way
 "Rue de Hal",,,,way
 "Rue de L'Église",,,,way
-"Rue de L'Énergie",,,,way
 "Rue de Lillois",,,,way
 "Rue de Merbraine",,,,way
 "Rue de Paudure",,,,way
@@ -365,7 +367,6 @@ Passerelle,,,,way
 "Rue de l'Eau Vive",,,,way
 "Rue de l'Église",,,,way
 "Rue de l'Epine Pucelle",,,,way
-"Rue de l'Hôpital",,,,way
 "Rue de l'école",,,,way
 "Rue de la Basse Mouturie",,,,way
 "Rue de la Basse-Cour",,,,way
@@ -405,8 +406,6 @@ Passerelle,,,,way
 "Rue de la légère Eau",,,,way
 "Rue des Acacias",,,,way
 "Rue des Alliés",,,,way
-"Rue des Arbalétriers",,,,way
-"Rue des Archers",,,,way
 "Rue des Aunes",,,,way
 "Rue des Badauds",,,,relation
 "Rue des Belles Pierres",,,,way
