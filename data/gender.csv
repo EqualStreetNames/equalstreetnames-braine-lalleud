@@ -12,7 +12,7 @@ name,source,gender,wikidata,type
 "Avenue Albert 1er",wikidata,M,Q55008046,way
 "Avenue Alphonse Allard",wikidata,M,Q28687475,way
 "Avenue Blücher",wikidata,M,Q153522,way
-"Avenue Capitaine Mercer",wikidata,M,Q5054791,way
+"Avenue Capitaine Mercier",wikidata,M,Q5054791,way
 "Avenue Général Milhaud",wikidata,M,Q274338,way
 "Avenue Général Ruquoy",wikidata,M,Q3263065,way
 "Avenue Jacques Brel",wikidata,M,Q1666,way
@@ -82,6 +82,7 @@ name,source,gender,wikidata,type
 "Rue Ernest Laurent",csv,M,,way
 "Rue Gaston Dubois",csv,M,,way
 "Rue Jacques Hubeau",csv,M,,way
+"Rue Jean Lanneau",csv,M,,way
 "Rue Jean le Meunier",csv,M,,way
 "Rue Joseph Gos",csv,M,,way
 "Rue Marius Wautier",csv,M,,way
