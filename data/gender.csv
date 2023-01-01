@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Place Abbé Renard",csv+wikidata,?,Q164294,way
 "Avenue Béatrice de Cusance",wikidata,F,Q660224,way
 "Avenue Geneviève de Brabant",wikidata,F,Q269052,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
@@ -72,7 +73,6 @@ name,source,gender,wikidata,type
 "Clos du Prince d'Orange",csv,M,,way
 "Drève du Petit Père Denis",csv,M,,way
 "Drève du Petit Père Michel",csv,M,,way
-"Place Abbé Renard",csv,M,,way
 "Rue Armand Wilputte",csv,M,,way
 "Rue Armand de Moor",csv,M,,way
 "Rue Arnould Bourgeys",csv,M,,way
