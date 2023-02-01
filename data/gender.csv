@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 "Place Abbé Renard",csv+wikidata,?,Q164294,way
 "Avenue Béatrice de Cusance",wikidata,F,Q660224,way
-"Avenue Geneviève de Brabant",wikidata,F,Q269052,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Chaussée Reine Astrid",wikidata,F,Q230238,way
 "Clos Sainte-Rita",wikidata,F,Q153024,way
