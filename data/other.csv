@@ -22,8 +22,10 @@ name,source,gender,wikidata,type
 "Clos du Mélèze",wikidata,,Q16665805,way
 "Clos du Séquoias",wikidata,,Q1975652,way
 "Clos du Thuyas",wikidata,,Q147255,way
+"Place d'Ophain",wikidata,,Q2629326,way
 "Rue de Cambrai",wikidata,,Q181285,way
 "Rue de L'Énergie",wikidata,,Q11379,way
+"Rue de Lillois",wikidata,,Q2771282,way
 "Rue de l'Abbaye",wikidata,,Q160742,way
 "Rue de l'Hôpital",wikidata,,Q16917,way
 "Rue de la Briqueterie",wikidata,,Q198632,way
@@ -167,7 +169,6 @@ name,source,gender,wikidata,type
 "Chemin 18",,,,way
 "Chemin 23",,,,way
 "Chemin 31",,,,way
-"Chemin Baty d'Hulencourt",,,,way
 "Chemin Baty de la Croix Charles Boucher",,,,way
 "Chemin Baty de la Justice",,,,way
 "Chemin Bertinchamps",,,,way
@@ -298,7 +299,6 @@ Passerelle,,,,way
 "Place Colo-Hugues",,,,way
 "Place Saint-Zèle",,,,way
 "Place d'Italie",,,,way
-"Place d'Ophain",,,,way
 "Place de la Gare",,,,way
 "Place de la Presse Belge",,,,way
 "Place du Luxembourg",,,,way
@@ -367,7 +367,6 @@ Passerelle,,,,way
 "Rue de Dinant",,,,way
 "Rue de Hal",,,,way
 "Rue de L'Église",,,,way
-"Rue de Lillois",,,,way
 "Rue de Merbraine",,,,way
 "Rue de Paudure",,,,way
 "Rue de Sart-Moulin",,,,way
