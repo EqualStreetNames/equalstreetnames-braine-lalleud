@@ -16,12 +16,12 @@ name,source,gender,wikidata,type
 "Clos de la Pépinière",wikidata,,Q155511,way
 "Clos de la Sapinière",wikidata,,Q13561020,way
 "Clos des épinoches",wikidata,,Q215420,way
-"Clos du Cèdres",wikidata,,Q128550,way
+"Clos du Cèdre",wikidata,,Q128550,way
 "Clos du Conifère",wikidata,,Q1000370,way
 "Clos du Genévrier",wikidata,,Q25662,way
 "Clos du Mélèze",wikidata,,Q16665805,way
-"Clos du Séquoias",wikidata,,Q1975652,way
-"Clos du Thuyas",wikidata,,Q147255,way
+"Clos du Séquoia",wikidata,,Q1975652,way
+"Clos du Thuya",wikidata,,Q147255,way
 "Place d'Ophain",wikidata,,Q2629326,way
 "Rue de Cambrai",wikidata,,Q181285,way
 "Rue de L'Énergie",wikidata,,Q11379,way
@@ -138,6 +138,7 @@ name,source,gender,wikidata,type
 "Avenue du Champ de la Bloquerie",,,,way
 "Avenue du Chemin Creux",,,,way
 "Avenue du Clair Soleil",,,,way
+"Avenue du Clos Sadin",,,,way
 "Avenue du Commerce",,,,way
 "Avenue du Dernier Carré",,,,way
 "Avenue du Fief",,,,way
@@ -151,7 +152,6 @@ name,source,gender,wikidata,type
 "Avenue du Tonnelier",,,,way
 "Avenue du Triangle",,,,way
 "Avenue du Verger",,,,way
-"Avenue du clos du Sadin",,,,way
 "Bois du Village",,,,way
 "Boulevard d'Angleterre",,,,way
 "Boulevard de France",,,,way
@@ -249,7 +249,7 @@ name,source,gender,wikidata,type
 "Chemin n°47",,,,way
 "Chemin n°87",,,,way
 "Chemin n°88",,,,way
-"Clos Béliau",,,,way
+"Clos Beliau",,,,way
 "Clos Bourdon",,,,way
 "Clos de Belvoir",,,,way
 "Clos de L'aurore",,,,way
@@ -274,7 +274,6 @@ name,source,gender,wikidata,type
 "Clos du Paddock",,,,way
 "Clos du Parc",,,,way
 "Clos du Poney",,,,way
-"Clos du Sadin",,,,way
 "Clos du Sarty",,,,way
 "Clos du Taillevent",,,,way
 "Clos du Triton",,,,way
@@ -292,12 +291,12 @@ Grand'Route,,,,way
 "Heidelaan - Avenue de la Bruyère",,,,way
 "Kleine Verbindingslaan - Avenue de la Petite Jonction",,,,way
 "Le Mail",,,,way
-"Parvis de l'église",,,,way
 Passerelle,,,,way
 "Petite Rue de la Gare",,,,way
 "Petite Rue du Château d'Eau",,,,way
 "Petite rue à l'art",,,,way
 "Place Colo-Hugues",,,,way
+"Place Reine Fabiola",,,,way
 "Place Saint-Zèle",,,,way
 "Place d'Italie",,,,way
 "Place de la Gare",,,,way
@@ -343,6 +342,7 @@ Passerelle,,,,way
 "Rue La Rue",,,,way
 "Rue La Vau",,,,way
 "Rue Les Saules",,,,way
+"Rue Les Tiennes",,,,way
 "Rue Longchamp",,,,way
 "Rue Longue",,,,way
 "Rue Motte des Bergers",,,,way
@@ -425,9 +425,10 @@ Passerelle,,,,way
 "Rue des Châtaigniers",,,,way
 "Rue des Chênes",,,,way
 "Rue des Combattants",,,,way
-"Rue des Croix du Feu",,,,way
+"Rue des Croix de Feu",,,,way
 "Rue des Déportés",,,,way
 "Rue des Fauvettes",,,,way
+"Rue des Fleurs",,,,way
 "Rue des Fossés",,,,way
 "Rue des Frênes",,,,way
 "Rue des Genêts",,,,way
@@ -452,7 +453,6 @@ Passerelle,,,,way
 "Rue des Taillis",,,,way
 "Rue des Tilleuls",,,,way
 "Rue des Tisserands",,,,way
-"Rue des fleurs",,,,way
 "Rue des trois Apôtres",,,,way
 "Rue du Batisseau",,,,way
 "Rue du Baty",,,,way
@@ -494,6 +494,7 @@ Passerelle,,,,way
 "Rue du Moulin à Eau",,,,way
 "Rue du Nicage",,,,way
 "Rue du Paradis",,,,way
+"Rue du Parvis de l'Eglise",,,,way
 "Rue du Pirois",,,,way
 "Rue du Rossignol",,,,way
 "Rue du Ry Ternel",,,,way
@@ -504,11 +505,11 @@ Passerelle,,,,way
 "Rue du Vert Coucou",,,,way
 "Rue du Vieux Foriest",,,,way
 "Rue du Vignoble",,,,way
+"Rue du môle",,,,way
 "Rue du moulin",,,,way
 "Rue les Brûlés",,,,way
 "Rue les Culots",,,,way
 "Rue les Hayettes",,,,way
-"Rue les Tiennes",,,,way
 "Ruelle Margot",,,,way
 "Ruelle du Try",,,,way
 "Sentier ""Nature""",,,,way
@@ -556,9 +557,9 @@ Passerelle,,,,way
 "Sentier du Pré Coquette",,,,way
 "Sentier du Rossignol",,,,way
 "Sentier du Try",,,,way
-"Sentier le Clauswheyde",,,,way
 "Sentier le Secheron",,,,way
 "Sentier n° 53",,,,way
+"Sentier n°126",,,,way
 "Sentier n°128",,,,way
 "Sentier n°133",,,,way
 "Sentier n°138",,,,way

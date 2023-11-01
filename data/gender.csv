@@ -27,7 +27,7 @@ name,source,gender,wikidata,type
 "Avenue du Prince Charles de Lorraine",wikidata,M,Q158232,way
 "Boulevard Pire Lefèbvre Desnouettes",wikidata,M,Q2362056,way
 "Clos Lamartine",wikidata,M,Q188697,way
-"Grand-Place Baudouin Ier",wikidata,M,Q12976,way
+"Grand-Place Baudouin 1er",wikidata,M,Q12976,way
 "Place Cardinal Mercier",wikidata,M,Q468097,way
 "Place Saint-Sébastien",wikidata,M,Q183332,way
 "Rue Albert Desenfans",wikidata,M,Q2630662,way
@@ -72,8 +72,8 @@ name,source,gender,wikidata,type
 "Clos du Prince d'Orange",csv,M,,way
 "Drève du Petit Père Denis",csv,M,,way
 "Drève du Petit Père Michel",csv,M,,way
+"Rue Armand De Moor",csv,M,,way
 "Rue Armand Wilputte",csv,M,,way
-"Rue Armand de Moor",csv,M,,way
 "Rue Arnould Bourgeys",csv,M,,way
 "Rue Comte Jacques de Meeüs",csv,M,,way
 "Rue Doyen Van Belle",csv,M,,way
@@ -87,7 +87,6 @@ name,source,gender,wikidata,type
 "Rue Marius Wautier",csv,M,,way
 "Rue Michel Botte",csv,M,,way
 "Rue Norbert Bourgeys",csv,M,,way
-"Rue Petit Jean",csv,M,,way
 "Rue Pierre Flamand",csv,M,,way
 "Rue Raymond Lebleux",csv,M,,way
 "Rue René Francq",csv,M,,way
@@ -95,3 +94,4 @@ name,source,gender,wikidata,type
 "Rue Saint-Nicolas",csv,M,,way
 "Rue Schépers",csv,M,,way
 "Rue Wayez",csv,M,,way
+"Rue du Petit Jean",csv,M,,way
