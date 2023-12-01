@@ -15,7 +15,7 @@ name,source,gender,wikidata,type
 "Clos de l'Epicéa",wikidata,,Q26782,way
 "Clos de la Pépinière",wikidata,,Q155511,way
 "Clos de la Sapinière",wikidata,,Q13561020,way
-"Clos des épinoches",wikidata,,Q215420,way
+"Clos des Épinoches",wikidata,,Q215420,way
 "Clos du Cèdre",wikidata,,Q128550,way
 "Clos du Conifère",wikidata,,Q1000370,way
 "Clos du Genévrier",wikidata,,Q25662,way
@@ -61,7 +61,7 @@ name,source,gender,wikidata,type
 "Avenue de Suède",,,,way
 "Avenue de Tchéquie",,,,way
 "Avenue de Tenbroeck",,,,way
-"Avenue de Vaudemont",,,,relation+way
+"Avenue de Vaudémont",,,,relation
 "Avenue de l'Aiglon",,,,way
 "Avenue de l'Alleu",,,,way
 "Avenue de l'Ancienne Barrière",,,,way
@@ -70,6 +70,7 @@ name,source,gender,wikidata,type
 "Avenue de l'Empereur",,,,way
 "Avenue de l'Ermitage",,,,way
 "Avenue de l'Estree",,,,way
+"Avenue de l'Estrée",,,,way
 "Avenue de l'Industrie",,,,way
 "Avenue de l'Orée",,,,way
 "Avenue de la 112ème",,,,way
@@ -135,6 +136,7 @@ name,source,gender,wikidata,type
 "Avenue du Cadre Noir",,,,way
 "Avenue du Callois",,,,way
 "Avenue du Castel",,,,way
+"Avenue du Cent Douzième de ligne",,,,way
 "Avenue du Champ de la Bloquerie",,,,way
 "Avenue du Chemin Creux",,,,way
 "Avenue du Clair Soleil",,,,way
@@ -176,6 +178,7 @@ name,source,gender,wikidata,type
 "Chemin Broctiaux",,,,way
 "Chemin Chesseroux",,,,way
 "Chemin Lazard",,,,way
+"Chemin Le Baty Scolasse",,,,way
 "Chemin Mamour",,,,way
 "Chemin Palle",,,,way
 "Chemin Robin",,,,way
@@ -251,7 +254,7 @@ name,source,gender,wikidata,type
 "Chemin n°88",,,,way
 "Clos Beliau",,,,way
 "Clos Bourdon",,,,way
-"Clos de Belvoir",,,,way
+"Clos de Bel Voir",,,,way
 "Clos de L'aurore",,,,way
 "Clos de l'Ermite",,,,way
 "Clos de l'Horizon",,,,way
@@ -277,7 +280,7 @@ name,source,gender,wikidata,type
 "Clos du Sarty",,,,way
 "Clos du Taillevent",,,,way
 "Clos du Triton",,,,way
-"Clos du Val de l'écossais",,,,way
+"Clos du Val de l'Écossais",,,,way
 "Clos du Vitrier",,,,way
 "Drève de Colipain",,,,way
 "Drève des Pins",,,,way
@@ -292,9 +295,9 @@ Grand'Route,,,,way
 "Kleine Verbindingslaan - Avenue de la Petite Jonction",,,,way
 "Le Mail",,,,way
 Passerelle,,,,way
+"Petite Rue à l'Art",,,,way
 "Petite Rue de la Gare",,,,way
 "Petite Rue du Château d'Eau",,,,way
-"Petite rue à l'art",,,,way
 "Place Colo-Hugues",,,,way
 "Place Reine Fabiola",,,,way
 "Place Saint-Zèle",,,,way
@@ -417,6 +420,7 @@ Passerelle,,,,way
 "Rue des Aunes",,,,way
 "Rue des Badauds",,,,relation
 "Rue des Belles Pierres",,,,way
+"Rue des Berges du Ruisseau",,,,way
 "Rue des Berges du ruisseau",,,,way
 "Rue des Bleuets",,,,way
 "Rue des Brasseurs",,,,way
@@ -436,10 +440,11 @@ Passerelle,,,,way
 "Rue des Jambes",,,,way
 "Rue des Lilas",,,,way
 "Rue des Maçons Fumistes",,,,way
+"Rue des Maçons fumistes",,,,way
 "Rue des Marolles",,,,way
 "Rue des Mérisiers",,,,way
 "Rue des Mésanges Bleues",,,,way
-"Rue des Nénuphars",,,,way
+"Rue des Nénufars",,,,way
 "Rue des Noisetiers",,,,way
 "Rue des Ormes",,,,way
 "Rue des Paveurs",,,,way
@@ -453,7 +458,7 @@ Passerelle,,,,way
 "Rue des Taillis",,,,way
 "Rue des Tilleuls",,,,way
 "Rue des Tisserands",,,,way
-"Rue des trois Apôtres",,,,way
+"Rue des Trois Apôtres",,,,way
 "Rue du Batisseau",,,,way
 "Rue du Baty",,,,way
 "Rue du Berger",,,,way
@@ -468,6 +473,7 @@ Passerelle,,,,way
 "Rue du Chevreuil",,,,way
 "Rue du Cimetière",,,,way
 "Rue du Cimorne",,,,way
+"Rue du Cimorné",,,,way
 "Rue du Coeur d'Or",,,,way
 "Rue du Coin de Terre",,,,way
 "Rue du Colbie",,,,way
