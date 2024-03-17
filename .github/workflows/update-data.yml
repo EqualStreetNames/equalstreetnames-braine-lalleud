@@ -17,73 +17,7 @@ on:
 
 jobs:
   update-data:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: EqualStreetNames/equalstreetnames
-          persist-credentials: false
-          submodules: true
-      - name: Use PHP 7.4
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: 7.4
-          extensions: curl, pdo, sqlite3
-      - name: Validate composer.json and composer.lock
-        working-directory: process
-        run: composer validate
-      - name: Install dependencies
-        working-directory: process
-        run: composer install --prefer-dist --no-progress
-
-      - name: Checkout submodule to master
-        working-directory: cities/belgium/braine-lalleud
-        run: git checkout -q master
-      - name: Update sub-modules
-        run: git submodule update --remote --merge cities/belgium/braine-lalleud
-
-      - name: Normalize `data.csv` file
-        working-directory: process
-        run: php process.php tool:normalize-csv --city=belgium/braine-lalleud
-
-      - name: Run update
-        working-directory: process
-        run: composer run update-data -- --city=belgium/braine-lalleud
-
-      # - name: Upload artifact
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: Braine-l'Alleud
-      #     path: cities/belgium/braine-lalleud/data/*
-
-      - name: Commit sub-module
-        if: ${{ github.event_name != 'pull_request' }}
-        working-directory: cities/belgium/braine-lalleud
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add data.csv
-          git add data/*
-          git commit -m "🗃 Update data"
-      - name: Push to sub-module
-        uses: ad-m/github-push-action@master
-        if: ${{ github.event_name != 'pull_request' }}
-        with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          directory: cities/belgium/braine-lalleud
-          repository: EqualStreetNames/equalstreetnames-braine-lalleud
-
-      - name: Commit main repository
-        if: ${{ github.event_name != 'pull_request' }}
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git pull
-          git add cities/belgium/braine-lalleud
-          git commit -m "🗃 Update Braine-l'Alleud sub-module"
-      - name: Push to main repository
-        uses: ad-m/github-push-action@master
-        if: ${{ github.event_name != 'pull_request' }}
-        with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          repository: EqualStreetNames/equalstreetnames
+    uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-update-date.yml@master
+    secrets: inherit
+    with:
+      city: belgium/braine-lalleud 
