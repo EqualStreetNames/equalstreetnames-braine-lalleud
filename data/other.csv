@@ -47,6 +47,7 @@ name,source,gender,wikidata,type
 "Avenue Grand Peine",,,,way
 "Avenue d'Arromanches",,,,way
 "Avenue d'Epinoy",,,,way
+"Avenue d'Espagne",,,,way
 "Avenue de Basingstoke",,,,way
 "Avenue de Cantecroy",,,,way
 "Avenue de Drummondville",,,,way
@@ -210,6 +211,7 @@ name,source,gender,wikidata,type
 "Chemin des Eglantiers",,,,way
 "Chemin des Oisillons",,,,way
 "Chemin des Pères",,,,way
+"Chemin des PetitesBrunes",,,,way
 "Chemin des Piécettes",,,,way
 "Chemin des Roussettes",,,,way
 "Chemin des Sept Fontaines",,,,way
@@ -242,6 +244,7 @@ name,source,gender,wikidata,type
 "Chemin du Rossignol",,,,way
 "Chemin du Roton",,,,way
 "Chemin du Roussart",,,,way
+"Chemin du Sadin",,,,way
 "Chemin du Steck",,,,way
 "Chemin du Valcq",,,,way
 "Chemin du Vivier",,,,way
@@ -266,7 +269,7 @@ name,source,gender,wikidata,type
 "Clos de la Rose",,,,way
 "Clos des Brûlots",,,,way
 "Clos des Centenaires",,,,way
-"Clos des Etriers",,,,way
+"Clos des Étriers",,,,way
 "Clos des Pommiers",,,,way
 "Clos des Tilleuls",,,,way
 "Clos des Verdiers",,,,way
@@ -304,7 +307,6 @@ Passerelle,,,,way
 "Place d'Italie",,,,way
 "Place de la Gare",,,,way
 "Place de la Presse Belge",,,,way
-"Place du Luxembourg",,,,way
 "Place du Môle",,,,way
 "Place du Quartier Saint-Jacques (Ouest) - Chaussée d'Ophain (Est)",,,,way
 "Pont Courbe",,,,way
@@ -329,6 +331,7 @@ Passerelle,,,,way
 "Rue Coleau",,,,way
 "Rue Colo-Hugues",,,,way
 "Rue Coniche",,,,way
+"Rue Courte",,,,way
 "Rue Culée",,,,way
 "Rue Delaleau",,,,way
 "Rue Ferme Smette",,,,way
@@ -553,6 +556,7 @@ Passerelle,,,,way
 "Sentier de la Vieille Ferme de Cambrai",,,,way
 "Sentier des Belles Pierres",,,,way
 "Sentier des Champs",,,,way
+"Sentier des Moineaux",,,,way
 "Sentier des Moines",,,,way
 "Sentier du Bon Air",,,,way
 "Sentier du Bon Conseil",,,,way
@@ -560,6 +564,8 @@ Passerelle,,,,way
 "Sentier du Drape",,,,way
 "Sentier du Mayeur",,,,way
 "Sentier du Moulin à Vent",,,,way
+"Sentier du Nicage",,,,way
+"Sentier du Paradis",,,,way
 "Sentier du Pré Coquette",,,,way
 "Sentier du Rossignol",,,,way
 "Sentier du Try",,,,way
