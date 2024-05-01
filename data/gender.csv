@@ -48,7 +48,7 @@ name,source,gender,wikidata,type
 "Rue Jules Hans",wikidata,M,Q11295532,way
 "Rue Marcel Thiry",wikidata,M,Q2146661,way
 "Rue Maurice Carême",wikidata,M,Q1395991,way
-"Rue Maurice Maeterlinck",wikidata,M,Q49747,way
+"Rue Maurice Maeterlinck",wikidata,M,Q211787;Q49747,way
 "Rue Mozart",wikidata,M,Q254,way
 "Rue Rombaut",wikidata,M,Q965463,way
 "Rue Saint-Laurent",wikidata,M,Q17590,way

@@ -70,7 +70,6 @@ name,source,gender,wikidata,type
 "Avenue de l'Egalité",,,,way
 "Avenue de l'Empereur",,,,way
 "Avenue de l'Ermitage",,,,way
-"Avenue de l'Estree",,,,way
 "Avenue de l'Estrée",,,,way
 "Avenue de l'Industrie",,,,way
 "Avenue de l'Orée",,,,way
@@ -179,7 +178,6 @@ name,source,gender,wikidata,type
 "Chemin Broctiaux",,,,way
 "Chemin Chesseroux",,,,way
 "Chemin Lazard",,,,way
-"Chemin Le Baty Scolasse",,,,way
 "Chemin Mamour",,,,way
 "Chemin Palle",,,,way
 "Chemin Robin",,,,way
@@ -358,6 +356,7 @@ Passerelle,,,,way
 "Rue Pré de la blanche Maison",,,,way
 "Rue Ramelot",,,,way
 "Rue Rivelaine",,,,way
+"Rue Saint-Zèle",,,,way
 "Rue Scolasse",,,,way
 "Rue Timpe et Tard",,,,way
 "Rue Tour des Vaux",,,,way
@@ -453,15 +452,15 @@ Passerelle,,,,way
 "Rue des Paveurs",,,,way
 "Rue des Piles",,,,way
 "Rue des Platanes",,,,way
-"Rue des Renclots",,,,way
 "Rue des Résistants",,,,way
 "Rue des Salamandres",,,,way
 "Rue des Salanganes",,,,way
 "Rue des Saussois",,,,way
 "Rue des Taillis",,,,way
-"Rue des Tilleuls",,,,way
 "Rue des Tisserands",,,,way
 "Rue des Trois Apôtres",,,,way
+"Rue des champs du bois",,,,way
+"Rue des tilleuls",,,,way
 "Rue du Batisseau",,,,way
 "Rue du Baty",,,,way
 "Rue du Berger",,,,way
@@ -514,7 +513,6 @@ Passerelle,,,,way
 "Rue du Vert Coucou",,,,way
 "Rue du Vieux Foriest",,,,way
 "Rue du Vignoble",,,,way
-"Rue du môle",,,,way
 "Rue du moulin",,,,way
 "Rue les Brûlés",,,,way
 "Rue les Culots",,,,way
