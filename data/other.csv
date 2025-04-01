@@ -38,7 +38,6 @@ name,source,gender,wikidata,type
 "Rue du Charron",wikidata,,Q833418,way
 "Rue du Hainaut",wikidata,,Q1129,way
 "Ancienne ligne 115",,,,way
-"Av'nuwe du Pont des Diâp",,,,way
 "Avenue Bel Air",,,,way
 "Avenue Britannique",,,,way
 "Avenue Chantecler",,,,way
@@ -147,6 +146,7 @@ name,source,gender,wikidata,type
 "Avenue du Forgeron",,,,way
 "Avenue du Japon",,,,way
 "Avenue du Mont Marcure",,,,way
+"Avenue du Pont des Diâp",,,,way
 "Avenue du Portugal",,,,way
 "Avenue du Pré Hérault",,,,way
 "Avenue du Sabotier",,,,way
@@ -243,7 +243,7 @@ name,source,gender,wikidata,type
 "Chemin du Roton",,,,way
 "Chemin du Roussart",,,,way
 "Chemin du Sadin",,,,way
-"Chemin du Steck",,,,way
+"Chemin du Stecq",,,,way
 "Chemin du Valcq",,,,way
 "Chemin du Vivier",,,,way
 "Chemin le Baty Scolasse",,,,way
@@ -341,7 +341,7 @@ Passerelle,,,,way
 "Rue Grange des Champs",,,,way
 "Rue Griponwez",,,,way
 "Rue Gritte",,,,way
-"Rue Hyppolite",,,,way
+"Rue Hippolyte",,,,way
 "Rue Kattekop",,,,way
 "Rue La Rue",,,,way
 "Rue La Vau",,,,way
@@ -524,6 +524,7 @@ Passerelle,,,,way
 "Sentier 36",,,,way
 "Sentier 52",,,,way
 "Sentier Bailleu",,,,way
+"Sentier Baillieu",,,,way
 "Sentier Broctiaux",,,,way
 "Sentier Bruyère de Noucelles",,,,way
 "Sentier Cave de Paudure",,,,way

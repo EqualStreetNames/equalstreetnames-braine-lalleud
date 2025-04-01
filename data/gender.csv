@@ -33,7 +33,7 @@ name,source,gender,wikidata,type
 "Place Saint-Sébastien",wikidata,M,Q183332,way
 "Rue Albert Desenfans",wikidata,M,Q2630662,way
 "Rue César Franck",wikidata,M,Q50187,way
-"Rue Charles De Coster",wikidata,M,Q315176,way
+"Rue Charles Decoster",wikidata,M,Q315176,way
 "Rue Charles Plisnier",wikidata,M,Q1065801,way
 "Rue Chopin",wikidata,M,Q1268,way
 "Rue Debussy",wikidata,M,Q4700,way
@@ -51,8 +51,8 @@ name,source,gender,wikidata,type
 "Rue Maurice Maeterlinck",wikidata,M,Q211787;Q49747,way
 "Rue Mozart",wikidata,M,Q254,way
 "Rue Rombaut",wikidata,M,Q965463,way
+"Rue Saint Saens",wikidata,M,Q150445,way
 "Rue Saint-Laurent",wikidata,M,Q17590,way
-"Rue Saint-Saens",wikidata,M,Q150445,way
 "Rue Saint-Sébastien",wikidata,M,Q183332,way
 "Rue Stanislas-André Steeman",wikidata,M,Q302296,way
 "Square Drouet d'Erlon",wikidata,M,Q921887,way
