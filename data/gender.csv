@@ -1,4 +1,42 @@
 name,source,gender,wikidata,type
+"Avenue Déesse Pomone",wikidata,-,Q171239,way
+"Avenue Geneviève de Brabant",wikidata,-,Q269052,way
+"Avenue de l'Armistice",wikidata,-,Q107706,way
+"Avenue de la Croix Rouge",wikidata,-,Q7178,way
+"Avenue des Pinsons",wikidata,-,Q30241,way
+"Avenue des Tarins",wikidata,-,Q3515726,way
+"Avenue des Tourterelles",wikidata,-,Q3535557,way
+"Avenue du Bouvreuil",wikidata,-,Q843173,way
+"Avenue du Feuillage",wikidata,-,Q33971,way
+"Boulevard de l'Europe",wikidata,-,Q46,way
+"Chaussée d'Ophain",wikidata,-,Q2629326,way
+"Chaussée de Mont-Saint-Jean",wikidata,-,Q3321619,way
+"Clos de l'Araucaria",wikidata,-,Q157214,way
+"Clos de l'Epicéa",wikidata,-,Q26782,way
+"Clos de la Pépinière",wikidata,-,Q155511,way
+"Clos de la Sapinière",wikidata,-,Q13561020,way
+"Clos des Épinoches",wikidata,-,Q215420,way
+"Clos du Cèdre",wikidata,-,Q128550,way
+"Clos du Conifère",wikidata,-,Q1000370,way
+"Clos du Genévrier",wikidata,-,Q25662,way
+"Clos du Mélèze",wikidata,-,Q16665805,way
+"Clos du Séquoia",wikidata,-,Q1975652,way
+"Clos du Thuya",wikidata,-,Q147255,way
+"Place d'Ophain",wikidata,-,Q2629326,way
+"Rue de Cambrai",wikidata,-,Q181285,way
+"Rue de L'Énergie",wikidata,-,Q11379,way
+"Rue de Lillois",wikidata,-,Q2771282,way
+"Rue de l'Abbaye",wikidata,-,Q160742,way
+"Rue de l'Hôpital",wikidata,-,Q16917,way
+"Rue de la Briqueterie",wikidata,-,Q198632,way
+"Rue des Arbalétriers",wikidata,-,Q2859615,way
+"Rue des Archers",wikidata,-,Q890527,way
+"Rue des Hirondelles",wikidata,-,Q39861,way
+"Rue des Joncs",wikidata,-,Q1322131,way
+"Rue des Pâquerettes",wikidata,-,Q26158,way
+"Rue des Roseaux",wikidata,-,Q2734060,way
+"Rue du Charron",wikidata,-,Q833418,way
+"Rue du Hainaut",wikidata,-,Q1129,way
 "Place Abbé Renard",csv+wikidata,?,Q164294,way
 "Avenue Béatrice de Cusance",wikidata,F,Q660224,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
