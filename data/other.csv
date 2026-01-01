@@ -116,6 +116,7 @@ name,source,gender,wikidata,type
 "Avenue du Tonnelier",,,,way
 "Avenue du Triangle",,,,way
 "Avenue du Verger",,,,way
+"Baty du Cerisier",,,,way
 "Bois du Village",,,,way
 "Boulevard d'Angleterre",,,,way
 "Boulevard de France",,,,way
@@ -257,6 +258,7 @@ Grand'Route,,,,way
 "Heidelaan - Avenue de la Bruyère",,,,way
 "Kleine Verbindingslaan - Avenue de la Petite Jonction",,,,way
 "Le Mail",,,,way
+Nizelles,,,,way
 Passerelle,,,,way
 "Petite Rue à l'Art",,,,way
 "Petite Rue de la Gare",,,,way
@@ -283,7 +285,7 @@ Passerelle,,,,way
 "Rue Baty Gigot",,,,way
 "Rue Baty du Cerisier",,,,way
 "Rue Bayard",,,,way
-"Rue Bertinchamps",,,,way
+"Rue Bertinchamp",,,,way
 "Rue Bon Air",,,,way
 "Rue Bruyère des Badauds",,,,way
 "Rue Castor",,,,way
@@ -329,11 +331,12 @@ Passerelle,,,,way
 "Rue d'Abeiche",,,,way
 "Rue d'Alconval",,,,way
 "Rue d'Hennuyères",,,,way
-"Rue d'Hennuyères (Nord) - Rue de la Ferme du Pré (Sud)",,,,way
+"Rue d'Hennuyères - Rue de la Ferme du Pré",,,,way
 "Rue d'Odeghien",,,,way
 "Rue de Bois-Seigneur-Isaac",,,,way
 "Rue de Caraute",,,,way
 "Rue de Dinant",,,,way
+"Rue de Griponwez",,,,way
 "Rue de Hal",,,,way
 "Rue de Merbraine",,,,way
 "Rue de Paudure",,,,way
@@ -353,6 +356,7 @@ Passerelle,,,,way
 "Rue de la Croix",,,,way
 "Rue de la Croix de Pierre",,,,way
 "Rue de la Dame à la Rose",,,,way
+"Rue de la Ferme du Pré",,,,way
 "Rue de la Filature",,,,way
 "Rue de la Fontaine",,,,way
 "Rue de la Fosse au Sable",,,,way
@@ -513,6 +517,7 @@ Passerelle,,,,way
 "Sentier de la Vieille Ferme de Cambrai",,,,way
 "Sentier des Belles Pierres",,,,way
 "Sentier des Champs",,,,way
+"Sentier des Drapes",,,,way
 "Sentier des Moineaux",,,,way
 "Sentier des Moines",,,,way
 "Sentier du Bon Conseil",,,,way
