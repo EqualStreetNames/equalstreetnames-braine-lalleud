@@ -5,7 +5,7 @@ name,source,gender,wikidata,type
 "Avenue Chantecler",,,,way
 "Avenue Coquette",,,,way
 "Avenue Germinal",,,,way
-"Avenue Grand Peine",,,,way
+"Avenue Grand-Peine",,,,way
 "Avenue d'Arromanches",,,,way
 "Avenue d'Epinoy",,,,way
 "Avenue d'Espagne",,,,way
@@ -56,7 +56,6 @@ name,source,gender,wikidata,type
 "Avenue de la Métairie",,,,way
 "Avenue de la Paix",,,,way
 "Avenue de la Tendraie",,,,way
-"Avenue des 4 Bonniers",,,,way
 "Avenue des Alouettes",,,,way
 "Avenue des Aunelles",,,,way
 "Avenue des Avocettes",,,,way
@@ -78,6 +77,7 @@ name,source,gender,wikidata,type
 "Avenue des Muguets",,,,way
 "Avenue des Octrois",,,,way
 "Avenue des Pétunias",,,,way
+"Avenue des Quatre Bonniers",,,,way
 "Avenue des Quatre Saisons",,,,way
 "Avenue des Ramiers",,,,way
 "Avenue des Roses",,,,way
@@ -156,7 +156,7 @@ name,source,gender,wikidata,type
 "Chemin de Remyval",,,,way
 "Chemin de Saint-Germain",,,,way
 "Chemin de Tourneppe",,,,way
-"Chemin de Vieux-Genappe",,,,way
+"Chemin de Vieux Genappe",,,,way
 "Chemin de Witterzee",,,,way
 "Chemin de l'Ange Gardien",,,,way
 "Chemin de l'Ermite",,,,way
@@ -264,6 +264,7 @@ Passerelle,,,,way
 "Petite Rue de la Gare",,,,way
 "Petite Rue du Château d'Eau",,,,way
 "Place Colo-Hugues",,,,way
+"Place Ouistreham Riva Bella",,,,way
 "Place Reine Fabiola",,,,way
 "Place Saint-Zèle",,,,way
 "Place d'Italie",,,,way
@@ -281,7 +282,6 @@ Passerelle,,,,way
 "Route de Lillois",,,,way
 "Route de Piraumont",,,,way
 "Route du Lion",,,,way
-"Route du Piraumont",,,,way
 "Rue Baty Gigot",,,,way
 "Rue Baty du Cerisier",,,,way
 "Rue Bayard",,,,way
@@ -380,7 +380,6 @@ Passerelle,,,,way
 "Rue de la Solidarité",,,,way
 "Rue de la Trairée",,,,way
 "Rue de la Vallée Bailly",,,,way
-"Rue de la Vau",,,,way
 "Rue de la légère Eau",,,,way
 "Rue des Acacias",,,,way
 "Rue des Alliés",,,,way
