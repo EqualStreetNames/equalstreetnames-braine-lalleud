@@ -1,4 +1,17 @@
 name,source,gender,wikidata,type
+A,,,,way
+"A I",,,,way
+"A II",,,,way
+"A III",,,,way
+"A IV",,,,way
+"A IX",,,,way
+"A V",,,,way
+"A VI",,,,way
+"A VII",,,,way
+"A VIII",,,,way
+"A X",,,,way
+"A XI",,,,way
+"A XII",,,,way
 "Ancienne ligne 115",,,,way
 "Avenue Bel Air",,,,way
 "Avenue Britannique",,,,way
@@ -7,7 +20,7 @@ name,source,gender,wikidata,type
 "Avenue Germinal",,,,way
 "Avenue Grand-Peine",,,,way
 "Avenue d'Arromanches",,,,way
-"Avenue d'Epinoy",,,,way
+"Avenue d'Épinoy",,,,way
 "Avenue d'Espagne",,,,way
 "Avenue de Basingstoke",,,,way
 "Avenue de Cantecroy",,,,way
@@ -34,7 +47,6 @@ name,source,gender,wikidata,type
 "Avenue de l'Estrée",,,,way
 "Avenue de l'Industrie",,,,way
 "Avenue de l'Orée",,,,way
-"Avenue de la 112ème",,,,way
 "Avenue de la Belle Province",,,,way
 "Avenue de la Bonne Fosse",,,,way
 "Avenue de la Brise",,,,way
@@ -116,11 +128,26 @@ name,source,gender,wikidata,type
 "Avenue du Tonnelier",,,,way
 "Avenue du Triangle",,,,way
 "Avenue du Verger",,,,way
+B,,,,way
+"B I",,,,way
+"B II",,,,way
+"B III",,,,way
+"B IV",,,,way
+"B V",,,,way
+"B VI",,,,way
+"B VII",,,,way
 "Baty du Cerisier",,,,way
 "Bois du Village",,,,way
 "Boulevard d'Angleterre",,,,way
 "Boulevard de France",,,,way
 "Boulevard de l'Alliance",,,,way
+C,,,,way
+"C I",,,,way
+"C II",,,,way
+"C III",,,,way
+"C IV",,,,way
+"C V",,,,way
+"C VI",,,,way
 "Campagne des Rites",,,,way
 "Chaussée Bara",,,,way
 "Chaussée d'Alsemberg",,,,way
@@ -164,7 +191,6 @@ name,source,gender,wikidata,type
 "Chemin de la Bruyère d'Alconval",,,,way
 "Chemin de la Carrière",,,,way
 "Chemin de la Cense",,,,way
-"Chemin de la Maison du Roi",,,,way
 "Chemin de la Maloue",,,,way
 "Chemin de la Praye",,,,way
 "Chemin de la chapelle",,,,way
@@ -246,19 +272,53 @@ name,source,gender,wikidata,type
 "Clos du Triton",,,,way
 "Clos du Val de l'Écossais",,,,way
 "Clos du Vitrier",,,,way
+D,,,,way
+"D I",,,,way
+"D II",,,,way
+"D III",,,,way
+"D IV",,,,way
+"D V",,,,way
+"D VI",,,,way
+"D VII",,,,way
+"D VIII",,,,way
+"D X",,,,way
+"D XI",,,,way
 "Drève de Colipain",,,,way
 "Drève des Pins",,,,way
 "Drève du Bois de Mai",,,,way
 "Drève du Triage de la Bruyère",,,,way
 "Drève du Triage de la Bruyère - Heidelaan",,,,way
+E,,,,way
+"E I",,,,way
+"E II",,,,way
+"E III",,,,way
+"E IV",,,,way
+"E IX",,,,way
+"E V",,,,way
+"E VI",,,,way
+"E VII",,,,way
+"E VIII",,,,way
+F,,,,way
+"F I",,,,way
+"F II",,,,way
+"F III",,,,way
+"F IV",,,,way
+"F V",,,,way
+"F VI",,,,way
+"F VII",,,,way
 "Ferme du Brou",,,,way
 "Ferme le Mont",,,,way
 "Galerie du Môle",,,,way
 Grand'Route,,,,way
 "Heidelaan - Avenue de la Bruyère",,,,way
+J,,,,way
+K,,,,way
 "Kleine Verbindingslaan - Avenue de la Petite Jonction",,,,way
+L,,,,way
 "Le Mail",,,,way
+M,,,,way
 Nizelles,,,,way
+P,,,,way
 Passerelle,,,,way
 "Petite Rue à l'Art",,,,way
 "Petite Rue de la Gare",,,,way
@@ -266,6 +326,7 @@ Passerelle,,,,way
 "Place Colo-Hugues",,,,way
 "Place Ouistreham Riva Bella",,,,way
 "Place Reine Fabiola",,,,way
+"Place Reine fabiola",,,,way
 "Place Saint-Zèle",,,,way
 "Place d'Italie",,,,way
 "Place de la Gare",,,,way
@@ -275,6 +336,8 @@ Passerelle,,,,way
 "Pont Courbe",,,,way
 "Pré du Chapitre",,,,way
 "Pré-RAVeL de Noucelles",,,,way
+Q,,,,way
+R,,,,way
 "Rond-Point de la Souveraine",,,,way
 "Rond-Point du Château Cheval",,,,way
 "Rond-Point du Scoutisme",,,,way
@@ -480,6 +543,7 @@ Passerelle,,,,way
 "Rue les Hayettes",,,,way
 "Ruelle Margot",,,,way
 "Ruelle du Try",,,,way
+S,,,,way
 "Sentier ""Nature""",,,,way
 "Sentier 169",,,,way
 "Sentier 32",,,,way
@@ -538,13 +602,19 @@ Passerelle,,,,way
 "Sentier n°37",,,,way
 "Sentier n°56",,,,way
 "Sentier n°95",,,,way
-"Square Riva-Bella",,,,way
 "Square d'Hougoumont",,,,way
 "Square du Valcq",,,,way
+T,,,,way
 "Terkluizendreef - Drève Dudinsart",,,,way
 "Turkooislaan - Avenue de la Turquoise",,,,way
+U,,,,way
+V,,,,way
 "Viaduc de l'Estrée",,,,way
 "Vieux Chemin de Nivelles",,,,way
+W,,,,way
+X,,,,way
+Y,,,,way
+Z,,,,way
 "Zavelbergweg - Chemin des Sables",,,,way
 Zevenbronnen,,,,way
 "Zevenbronnen - Sept Fontaines",,,,way
